@@ -28,7 +28,7 @@
         <div class="section_1">
             <div class="head">
                 <div class="head_content">
-                    SUJITHA
+                    MOHANASUNDARAM
                     <img src="./media/twitter.png" alt="" class="head_icon icon_right">
                     <img src="./media/facebook-60.png" alt="" class="head_icon">
                     <img src="./media/instagram.png" alt="" class="head_icon">
