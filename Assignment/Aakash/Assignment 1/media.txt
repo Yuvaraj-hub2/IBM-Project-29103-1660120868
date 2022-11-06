@@ -58,7 +58,7 @@
                         <p class="property">Qualification   : <br> Email&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;: <br> Phone&ensp;&ensp;&ensp; &ensp;:<br> Address&ensp;&ensp;&ensp; &ensp;:</p>
                     </div>
                     <div class="col-sm-4 person_value weight">
-                        <p class="value">BE ECE<br>aakash080502@gmail.com<br> 6379008366 <br>Namakkal </p>
+                        <p class="value">BE ECE<br>aakash080502@gmail.com<br> 9345274475 <br>Namakkal </p>
                     </div>
                 </div>
                 <hr style="margin: 0 20px;">
