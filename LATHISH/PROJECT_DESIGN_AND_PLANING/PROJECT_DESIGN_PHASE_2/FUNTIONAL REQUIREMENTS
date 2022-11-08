@@ -1,0 +1,82 @@
+PROJECT DESIGN PHASE II
+FUNCTIONAL REQUIREMENTS
+Project description:
+This project is aimed at developing a desktop-based application named Nutrition Assistant
+Application for estimates food attributes such as ingredients and nutritional value by
+classifying the input images of food. The Nutrition Assistant Application refers to the system
+and processes to help the user to analyse the intake of food with the involvement of a
+Technology system. This system can be used to store the details of the user’s health,
+calculating the BMI, Classifying the food image to know the nutritional value, update the
+status of their health condition based on the information provided, and generate health reports
+weekly or monthly based. This project is categorizing individual health condition of the user.
+The Nutrition Assistant Application is important to control their daily calorie intake by eating
+healthier foods, which is the most basic method to avoid obesity. Without proper diet control,
+and this is reflective of the risks to people’s health. A good Nutrition Assistant Application
+will alert the users when it is time to avoid. This project aims at building a web App that
+automatically estimates food attributes such as ingredients and nutritional value by
+classifying the input image of food.
+Scope:
+Maintains good health: The application can help in guiding them on how to
+remain healthy and how to take good nutrition. The application will help
+them without personally going to the doctor. Promote better nutrition in the
+community by educating about better diet and nutrition.
+Functional limitation: The user to be specific can’t access the web or
+admin module, whereas the administrator has all the rights to modify and
+manage the contents such as news, tips, etc
+Improve Usability: In the part of user’s just the internet connection is enough
+in order to access the news, updates and other contents provided by the admin
+regarding their health condition.
+Health conscious: This will provide convenience to persons/users who wants
+to learn about nutrition and other related health topics by just using the
+Nutrition Assistant Application
+Purpose:
+The users continue to demand to know the nutritional value that is in their food. The users learn
+about the effect of different foods on human health. Evidently, the ultimate aim of this
+application is to provide the ways in which one can lead a healthy life by maintaining his/her
+diet. The user can access the nutritional information by taking a photo of the food, uploading a
+photo from the gallery, or by entering manually.
+Date 25October 2022
+Team ID PNT2022TMID41648
+Project Name Nutrition Assistant Application.
+Nutrition is more than just obtaining nutrients and calories from food. It’s more than just eating
+the healthy stuff. It’s more than just following the most recent fad diet. Nutrition, the food we
+eat and the way we eat it, is an integral part of life. Nutrition is an experience. It evokes
+memories, helps us celebrate good times, and is there for us in times of grief. I believe the
+purpose of nutrition is to nourish the body and soul.
+The Nutrition Assistant Application helps the users to eat nutritional rich food which yield to
+lead a healthy life.
+IDENTIFIER REQUIREMENTS
+1. Add health information This application will allow to add health
+related information of the user.
+2. Delete health information This application will allow to delete the
+unwanted details about their health.
+3. Categories of nutritional food The categories of food.
+4. View of Dashboard Application will allow user to view the
+dashboard containing nutrition details.
+5. Mail Notification This application will allow to send mail
+notification to user when there are any issues
+regarding their health
+6. Tracking System The health can be tracked with this
+application.
+7. Graph analysis This application will demonstrate health
+condition by means of nutritional content
+8. Identifying the high calorie food The high calorie ingredients will be shown
+via this application.
+9. Identifying the low calorie food The high calorie ingredients will be shown
+via this application.
+10. Passcode This application has the option to set a
+passcode to keep their medical reports safe.
+12. Add multiple accounts This application has the option of creating
+multiple accounts for the users.
+13. Selection of health report duration This application has the ability to select the
+duration for displaying the health report as
+weekly or monthly.
+14. Update account This application will allow the user to update
+their profile.
+15. Add account This application will allow the user to add
+their profile.
+16. Delete account This application will allow the user to delete
+their profile.
+17. PDF report This application will generate the pdf report
+of medical analysis.
+18. Pupation of nutritional trends This application will allow constant review
